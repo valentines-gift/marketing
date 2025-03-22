@@ -60,11 +60,11 @@ body {
 
 .slider .list .item .content p{
     font-size: 25px;
-    color: #efefef;
+    color: #000000;
 }
 
 .slider .list .item .content h2{
-    color: #efefef;
+    color: #000000;
     font-size: 80px;
     margin: 0;
 }
